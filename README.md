@@ -51,13 +51,7 @@
 ## 了解技术原理 & 获取训练集：[点此进入](http://www.seeprettyface.com/)
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
 
-## 小小的赞助~
-<p align="center">
-	<img src="https://github.com/a312863063/seeprettyface/blob/master/sponsor.jpg" alt="Sample"  width="324" height="504">
-	<p align="center">
-		<em>若对您有帮助可给予小小的赞助~</em>
-	</p>
-</p>
+
 <br/><br/><br/>
 
 
